@@ -1,0 +1,1906 @@
+{
+ "Taubaté": [
+  {
+   "id": 5913,
+   "titulo": "Água Quente",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 6076,
+   "titulo": "Ana Rosa",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-25T20:45:42-0300",
+   "valor": 5.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5925,
+   "titulo": "Ana Rosa",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 5.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5903,
+   "titulo": "Arco-íris",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:15:39-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5902,
+   "titulo": "Areão",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:15:39-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5912,
+   "titulo": "Bairro dos Guedes",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 4,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 9228,
+   "titulo": "bardan",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-07-12T20:27:55-0300",
+   "valor": 6,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 12217,
+   "titulo": "Barranco (Santa Helena)",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-09-08T22:53:14-0300",
+   "valor": 5.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5908,
+   "titulo": "Boa Vista",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 6083,
+   "titulo": "Campos do Conde 1",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-26T18:56:02-0300",
+   "valor": 4,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 6077,
+   "titulo": "Canuto Borges ",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-25T20:46:29-0300",
+   "valor": 4,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 6530,
+   "titulo": "Centro",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-06-07T22:08:55-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5939,
+   "titulo": "Chácara canaã",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:22:26-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5907,
+   "titulo": "Chácara das rosas",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 6688,
+   "titulo": "chacara do visconde ",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-06-11T21:11:38-0300",
+   "valor": 5.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5942,
+   "titulo": "Comerciários 1 ",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:22:26-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5917,
+   "titulo": "Comerciários 2",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5941,
+   "titulo": "Esplanada Independência",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:22:26-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5910,
+   "titulo": "Esplanada Santa Inês",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5909,
+   "titulo": "Esplanada Sta Terezinha",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5943,
+   "titulo": "Estiva",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:22:26-0300",
+   "valor": 5.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5918,
+   "titulo": "Granja Daniel",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5904,
+   "titulo": "Granvile",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5936,
+   "titulo": "Gurilandia",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:22:26-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 77891,
+   "titulo": "HERCULES MASSON",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2026-10-13T21:36:26-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5937,
+   "titulo": "Hospital Escola",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:22:26-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 6210,
+   "titulo": "Independencia ",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-29T22:24:00-0300",
+   "valor": 8,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5905,
+   "titulo": "Jair Freire",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5920,
+   "titulo": "Jaraguá Novo",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5919,
+   "titulo": "Jaraguá Velho",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 15536,
+   "titulo": "Jardim Ana Emília ",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-12-22T20:03:06-0300",
+   "valor": 5.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5891,
+   "titulo": "Jardim Califórnia",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:15:39-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 6400,
+   "titulo": "Jardim da luz ",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-31T20:22:02-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 37881,
+   "titulo": "JARDIM DA LUZ ",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2023-10-19T22:11:52-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 14811,
+   "titulo": "Jardim das Nações",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-12-06T19:11:36-0300",
+   "valor": 8,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5892,
+   "titulo": "Jardim Garcês",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:15:39-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 6203,
+   "titulo": "Jardim morumbi",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-27T21:36:23-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 37884,
+   "titulo": "JARDIM MORUMBI",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2023-10-19T22:11:52-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5890,
+   "titulo": "Jardim Mourisco",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:15:39-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 74861,
+   "titulo": "JARDIM REZENDE",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2026-06-22T22:45:31-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5934,
+   "titulo": "Jardim Santa Catarina",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:22:26-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5889,
+   "titulo": "Jardim Santa Isabel",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:13:12-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5915,
+   "titulo": "Monção",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 6687,
+   "titulo": "Parque Aeroporto",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-06-11T19:41:07-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 76007,
+   "titulo": "PARQUE DAS FLORES",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2026-07-29T20:01:27-0300",
+   "valor": 4,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5924,
+   "titulo": "Parque Ipanema",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 5.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 6208,
+   "titulo": "Parque Paduam ",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-28T22:10:41-0300",
+   "valor": 6,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5894,
+   "titulo": "Parque Sabará",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:15:39-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5896,
+   "titulo": "Parque Santo Antônio ",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:15:39-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5926,
+   "titulo": "Parque São Cristovão",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 5.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 12203,
+   "titulo": "Parque São Jorge",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-09-03T20:11:00-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5893,
+   "titulo": "Parque São Luiz",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:15:39-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 77892,
+   "titulo": "PARQUE TAUBATE GUAÇU",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2026-10-13T21:37:58-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5944,
+   "titulo": "Parque Urupês",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:22:26-0300",
+   "valor": 6,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5911,
+   "titulo": "Rancho Grande",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5923,
+   "titulo": "Recanto dos Coqueirais",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5940,
+   "titulo": "San Marino",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:22:26-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5922,
+   "titulo": "Santa Clara",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5938,
+   "titulo": "Santa Fé",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:22:26-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5921,
+   "titulo": "Santa Helena",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 14809,
+   "titulo": "UPA SAN MARINO",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-12-06T19:00:36-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5895,
+   "titulo": "Vera Cruz",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:15:39-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5900,
+   "titulo": "Vila Albina",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:15:39-0300",
+   "valor": 4,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5899,
+   "titulo": "Vila Aparecida",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:15:39-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 37885,
+   "titulo": "VILA BALI ",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2023-10-19T22:11:52-0300",
+   "valor": 6.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 42176,
+   "titulo": "vila bela ",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2024-02-03T18:47:53-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 37887,
+   "titulo": "VILA COSTA ",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2023-10-19T22:11:52-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5906,
+   "titulo": "Vila das Graças",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5916,
+   "titulo": "Vila IAPI",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5897,
+   "titulo": "Vila Marli",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:15:39-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5898,
+   "titulo": "Vila Nogueira",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:15:39-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5927,
+   "titulo": "Vila Olímpia",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:19:18-0300",
+   "valor": 5.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5935,
+   "titulo": "Vila Rica",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:22:26-0300",
+   "valor": 5.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5901,
+   "titulo": "Vila São Geraldo",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:15:39-0300",
+   "valor": 3,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  },
+  {
+   "id": 5952,
+   "titulo": "vila são José",
+   "cidade_id": 9703,
+   "empresa_id": 1989,
+   "created": "2021-05-24T21:54:20-0300",
+   "valor": 5.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9703,
+    "titulo": "Taubaté",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "taubate",
+    "celular": null,
+    "ibge": 3554102
+   }
+  }
+ ],
+ "Tremembé": [
+  {
+   "id": 5948,
+   "titulo": "Bem virá",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:24:07-0300",
+   "valor": 8,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 5953,
+   "titulo": "caminho novo",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-05-24T23:41:01-0300",
+   "valor": 7.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 9030,
+   "titulo": "Campos do Conde 2 ( chambord )",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-07-08T18:38:54-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 6084,
+   "titulo": "Campos do Conde 2 (versailles)",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-05-26T18:59:43-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 75992,
+   "titulo": "CANAÃ",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2026-07-21T23:08:40-0300",
+   "valor": 7,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 6527,
+   "titulo": "centro",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-06-03T20:24:58-0300",
+   "valor": 8,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 56975,
+   "titulo": "CHACARA NOVA VIDA ",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2025-05-02T20:26:19-0300",
+   "valor": 6,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 18004,
+   "titulo": "cond. vale do sol",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2022-03-19T18:44:59-0300",
+   "valor": 8,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 5950,
+   "titulo": "El Dourado",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:24:07-0300",
+   "valor": 8,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 12939,
+   "titulo": "flor do vale",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-10-02T19:46:03-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 8340,
+   "titulo": "flor do vale",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-07-03T20:50:41-0300",
+   "valor": 4.5,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 6200,
+   "titulo": "Guedes",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-05-27T20:05:19-0300",
+   "valor": 4,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 6529,
+   "titulo": "Jardim dos eucaliptos ",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-06-05T21:01:15-0300",
+   "valor": 8,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 5946,
+   "titulo": "Jardim Santana",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:24:07-0300",
+   "valor": 8,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 5947,
+   "titulo": "Mambaré",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:24:07-0300",
+   "valor": 8,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 5951,
+   "titulo": "Parque das Fontes",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:24:07-0300",
+   "valor": 8,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 6202,
+   "titulo": "Parque nossa  senhora ds glória",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-05-27T20:34:34-0300",
+   "valor": 8,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 5949,
+   "titulo": "Piratininga",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-05-24T18:24:07-0300",
+   "valor": 8,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 6201,
+   "titulo": "Sao Vicente de Paula",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-05-27T20:13:24-0300",
+   "valor": 4,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  },
+  {
+   "id": 6206,
+   "titulo": "Vale das flores",
+   "cidade_id": 9718,
+   "empresa_id": 1989,
+   "created": "2021-05-28T19:10:09-0300",
+   "valor": 6,
+   "is_desabilitar": false,
+   "tempo_estimado": null,
+   "cidade": {
+    "id": 9718,
+    "titulo": "Tremembé",
+    "estado_uf": "SP",
+    "created": "2020-12-03T17:03:04-0300",
+    "codigo_pais": null,
+    "slug": "tremembe",
+    "celular": null,
+    "ibge": 3554805
+   }
+  }
+ ]
+}

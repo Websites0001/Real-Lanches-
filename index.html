@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="pt-BR" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Real Lanches Pastéis & Açaí</title>
+  <meta name="description" content="Cardápio do Real Lanches Pastéis & Açaí, no Parque Santo Antônio, em Taubaté: lanches, pastéis de 20 e 30 cm, açaí e porções, com entrega em Taubaté e Tremembé.">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#0E0C0C">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=Figtree:wght@400..800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/estilo.css">
+  <link rel="icon" href="fotos/local/logo-real.jpg">
+</head>
+<body>
+  <a class="skip" href="#cardapio">Pular para o cardápio</a>
+
+  <!-- Abertura -->
+  <div class="loader" id="loader" aria-hidden="true">
+    <svg class="crown" viewBox="0 0 64 40"><path d="M4 34 0 8l16 12L32 0l16 20L64 8l-4 26z"/><rect x="4" y="35" width="56" height="5" rx="2"/></svg>
+    <div class="loader__word"><span>R</span><span>E</span><span>A</span><span>L</span></div>
+    <div class="loader__bar"><span></span></div>
+  </div>
+
+  <!-- Topo -->
+  <header class="topbar" id="topbar">
+    <div class="topbar__inner wrap">
+      <a href="#inicio" class="brand" aria-label="Real Lanches, voltar ao início">
+        <img src="fotos/local/logo-real.jpg" alt="" width="44" height="44">
+        <span class="brand__txt"><b>Real Lanches</b><small>Pq. Santo Antônio</small></span>
+      </a>
+      <nav class="topnav" aria-label="Seções">
+        <a href="#cardapio">Cardápio</a>
+        <a href="#destaques">Destaques</a>
+        <button type="button" data-open-explore>Galeria infinita</button>
+        <a href="#onde">Onde estamos</a>
+      </nav>
+      <div class="topbar__actions">
+        <span class="status" id="status"><i></i><span>—</span></span>
+        <button type="button" class="icon-btn" id="themeBtn" aria-label="Alternar tema claro e escuro">
+          <svg class="i-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.2M12 19.3v2.2M4.6 4.6l1.6 1.6M17.8 17.8l1.6 1.6M2.5 12h2.2M19.3 12h2.2M4.6 19.4l1.6-1.6M17.8 6.2l1.6-1.6"/></svg>
+          <svg class="i-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.6A8.2 8.2 0 0 1 9.4 4a8.2 8.2 0 1 0 10.6 10.6z"/></svg>
+        </button>
+        <button type="button" class="bag-btn" id="bagBtn" aria-label="Abrir sacola de pedido">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5.5 8h13l-1 12.2a1 1 0 0 1-1 .8h-9a1 1 0 0 1-1-.8z"/><path d="M9 8V6.8a3 3 0 0 1 6 0V8"/></svg>
+          <span class="bag-btn__label">Sacola</span>
+          <span class="bag-btn__count" id="bagCount">0</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="inicio">
+    <!-- Hero -->
+    <section class="hero wrap" aria-labelledby="heroTitle">
+      <div class="hero__copy">
+        <p class="hero__eyebrow"><span class="pin" aria-hidden="true"></span>Parque Santo Antônio · Taubaté</p>
+        <h1 class="hero__title" id="heroTitle">
+          <span class="ln"><span class="w">Pastel</span><span class="chip" aria-hidden="true"><img data-foto="pastel" alt=""></span></span>
+          <span class="ln"><span class="chip" aria-hidden="true"><img data-foto="lanche" alt=""></span><span class="w">Lanche</span></span>
+          <span class="ln"><span class="w amp">&amp;</span><span class="w red">Açaí</span><span class="chip" aria-hidden="true"><img data-foto="acai" alt=""></span></span>
+        </h1>
+        <p class="hero__lead" id="heroLead">Pastéis de 20 e 30 cm em mais de 60 sabores, lanches no pão francês ou de hambúrguer e açaí de 300 ml a 1 litro. Entrega em Taubaté e Tremembé.</p>
+        <div class="hero__cta">
+          <a href="#cardapio" class="btn btn--red">Ver cardápio
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M6 13l6 6 6-6"/></svg></a>
+          <button type="button" class="btn btn--ghost" data-open-explore>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="7" height="7" rx="1.6"/><rect x="13.5" y="3.5" width="7" height="7" rx="1.6"/><rect x="3.5" y="13.5" width="7" height="7" rx="1.6"/><rect x="13.5" y="13.5" width="7" height="7" rx="1.6"/></svg>
+            Galeria infinita</button>
+        </div>
+        <ul class="hero__facts">
+          <li><b><span data-loja="nota"></span> <i class="star" aria-hidden="true">★</i></b><span><span data-loja="avaliacoes"></span> avaliações no Google</span></li>
+          <li><b id="factHoje">19h–0h</b><span id="factHojeTxt">hoje</span></li>
+          <li><b>R$ 3 a 8</b><span>taxa de entrega</span></li>
+        </ul>
+      </div>
+      <div class="hero__poster" aria-hidden="true">
+        <div class="reel" id="reel"></div>
+        <div class="sticker">
+          <svg viewBox="0 0 200 200" class="sticker__ring"><defs><path id="circ" d="M100,100 m-74,0 a74,74 0 1,1 148,0 a74,74 0 1,1 -148,0"/></defs><text><textPath href="#circ">LANCHES · PASTÉIS · AÇAÍ · PORÇÕES · </textPath></text></svg>
+          <svg class="crown" viewBox="0 0 64 40"><path d="M4 34 0 8l16 12L32 0l16 20L64 8l-4 26z"/><rect x="4" y="35" width="56" height="5" rx="2"/></svg>
+        </div>
+      </div>
+    </section>
+
+    <!-- Fitas infinitas -->
+    <div class="tapes" aria-hidden="true">
+      <div class="tape tape--red"><div class="tape__track" data-tape="1"></div></div>
+      <div class="tape tape--gold"><div class="tape__track" data-tape="-1"></div></div>
+    </div>
+
+    <!-- Destaques -->
+    <section class="favs" id="destaques" aria-labelledby="favsTitle">
+      <div class="wrap favs__head">
+        <div>
+          <p class="kicker">Destaques do cardápio</p>
+          <h2 class="h2" id="favsTitle">Pra matar a fome <em>de vez</em>.</h2>
+        </div>
+        <div class="favs__ctrl">
+          <span class="hint"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 12h8M5 9l-3 3 3 3M19 9l3 3-3 3"/></svg>Arraste</span>
+          <button type="button" class="round-btn" id="favPrev" aria-label="Anterior"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button>
+          <button type="button" class="round-btn" id="favNext" aria-label="Próximo"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></button>
+        </div>
+      </div>
+      <div class="favs__viewport" id="favViewport"><div class="favs__track" id="favTrack" role="list"></div></div>
+    </section>
+
+    <!-- Real Salgado -->
+    <section class="spot wrap" id="spot" aria-labelledby="spotTitle"></section>
+
+    <!-- Cardápio -->
+    <section class="menu" id="cardapio" aria-labelledby="menuTitle">
+      <div class="wrap menu__intro">
+        <p class="kicker">Cardápio completo</p>
+        <h2 class="h2" id="menuTitle"><span id="menuCount">161</span> opções, <em>do pastel ao açaí</em>.</h2>
+        <div class="filters" id="filters" role="group" aria-label="Filtrar por ingrediente"></div>
+      </div>
+      <div class="menubar" id="menubar">
+        <div class="wrap menubar__inner">
+          <div class="tabs"><div class="tabs__scroller" id="tabsScroller">
+            <ul class="tabs__list" id="tabsList"></ul>
+            <ul class="tabs__list tabs__list--active" id="tabsActive" aria-hidden="true"></ul>
+          </div></div>
+          <label class="search" id="searchBox">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg>
+            <span class="sr-only">Buscar no cardápio</span>
+            <input type="search" id="search" placeholder="Buscar: bacon, catupiry, x-tudo…" autocomplete="off" enterkeyhint="search">
+            <button type="button" class="search__clear" id="searchClear" aria-label="Limpar busca"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7l10 10M17 7L7 17"/></svg></button>
+          </label>
+        </div>
+      </div>
+      <div class="wrap" id="menuSections"></div>
+      <div class="wrap empty" id="empty" hidden>
+        <h3>Nada com esse nome</h3>
+        <p>Tente outra palavra ou limpe os filtros.</p>
+        <button type="button" class="btn btn--ghost" id="emptyReset">Limpar busca e filtros</button>
+      </div>
+    </section>
+
+    <!-- Fotos do Real -->
+    <section class="photos" aria-labelledby="photosTitle">
+      <div class="wrap">
+        <p class="kicker">Fotos do Real</p>
+        <h2 class="h2" id="photosTitle">Do balcão <em>pra sua mesa</em>.</h2>
+        <div class="photos__grid" id="photosGrid"></div>
+      </div>
+    </section>
+
+    <!-- Onde estamos -->
+    <section class="where" id="onde" aria-labelledby="whereTitle">
+      <div class="wrap where__grid">
+        <div class="where__info">
+          <p class="kicker">Onde estamos</p>
+          <h2 class="h2" id="whereTitle">Rua Emíliano Scacheti, <em>47</em>.</h2>
+          <p class="where__addr"><span data-loja="endereco"></span> · <span data-loja="cidade"></span> · CEP <span data-loja="cep"></span></p>
+          <div class="where__cta" id="whereCta"></div>
+          <div class="cards3">
+            <div class="infocard">
+              <h3>Horários</h3>
+              <ul class="hours" id="hours"></ul>
+            </div>
+            <div class="infocard">
+              <h3>Contato</h3>
+              <ul class="contacts" id="contacts"></ul>
+            </div>
+            <div class="infocard">
+              <h3>Pagamento</h3>
+              <ul class="plain" id="payments"></ul>
+              <p class="small" data-loja="pagamentoNota"></p>
+              <h3 class="mt">Acessibilidade</h3>
+              <p class="small" data-loja="acessibilidade"></p>
+            </div>
+          </div>
+          <div class="feecheck" id="feecheck">
+            <h3>Quanto custa a entrega no seu bairro?</h3>
+            <div class="feecheck__row">
+              <label class="field"><span>Cidade</span><select id="feeCity"></select></label>
+              <label class="field"><span>Bairro</span><select id="feeHood"></select></label>
+              <output class="feecheck__out" id="feeOut" aria-live="polite">—</output>
+            </div>
+            <p class="small">Entrega em <span data-loja-entrega="tempo"></span>. Retirada no balcão em <span data-loja-entrega="retirada"></span>.</p>
+          </div>
+        </div>
+        <div class="where__map">
+          <iframe id="mapFrame" title="Mapa com a localização do Real Lanches" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <img data-foto="fachada" alt="Fachada do Real Lanches no Parque Santo Antônio" class="where__photo" loading="lazy">
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer__inner">
+      <div class="footer__brand"><img src="fotos/local/logo-real.jpg" alt="" width="40" height="40"><span>Real Lanches Pastéis &amp; Açaí</span></div>
+      <p class="footer__note">Preços e opções conforme o cardápio online da loja. Fotos dos itens: cardápio Giga Pedidos. Outras fotos: Real Lanches e clientes no Google Maps (créditos em cada foto).</p>
+      <p class="footer__note"><b>Prévia de site criada para apresentação.</b></p>
+    </div>
+    <div class="footer__giant" aria-hidden="true">REAL</div>
+  </footer>
+
+  <button type="button" class="cartbar" id="cartbar" aria-label="Ver sacola">
+    <span class="cartbar__count" id="cartbarCount">0</span>
+    <span class="cartbar__label">Ver sacola</span>
+    <span class="cartbar__total" id="cartbarTotal">R$ 0,00</span>
+  </button>
+
+  <!-- Detalhe -->
+  <div class="layer" id="detailLayer" hidden>
+    <div class="scrim" data-close></div>
+    <div class="detail" id="detail" role="dialog" aria-modal="true" aria-labelledby="detailName" tabindex="-1">
+      <div class="grabber" aria-hidden="true"><span></span></div>
+      <button type="button" class="close-btn" data-close aria-label="Fechar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7l10 10M17 7L7 17"/></svg></button>
+      <div class="detail__media" id="detailMedia"></div>
+      <div class="detail__body" id="detailBody"></div>
+    </div>
+  </div>
+
+  <!-- Sacola -->
+  <div class="layer" id="cartLayer" hidden>
+    <div class="scrim" data-close></div>
+    <aside class="cart" id="cart" role="dialog" aria-modal="true" aria-labelledby="cartTitle" tabindex="-1">
+      <div class="grabber" aria-hidden="true"><span></span></div>
+      <header class="cart__head">
+        <h2 id="cartTitle">Sua sacola</h2>
+        <button type="button" class="close-btn" data-close aria-label="Fechar sacola"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7l10 10M17 7L7 17"/></svg></button>
+      </header>
+      <div class="cart__body" id="cartBody"></div>
+      <footer class="cart__foot" id="cartFoot"></footer>
+    </aside>
+  </div>
+
+  <!-- Galeria infinita -->
+  <div class="explore" id="explore" role="dialog" aria-modal="true" aria-label="Galeria infinita do cardápio" hidden>
+    <div class="explore__world" id="exploreWorld"></div>
+    <div class="explore__ui">
+      <div class="explore__title"><span class="kicker">Galeria infinita</span><p>Arraste pra qualquer lado. Toque num item pra ver os detalhes.</p></div>
+      <button type="button" class="close-btn close-btn--lg" id="exploreClose" aria-label="Fechar galeria"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7l10 10M17 7L7 17"/></svg></button>
+    </div>
+    <div class="explore__cursor" id="exploreCursor" aria-hidden="true">Arraste</div>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="js/dados.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
